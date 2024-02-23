@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/akash2704/js-interactive-rating-component)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [js-interactive-rating-component](https://js-interactive-rating-component-jet.vercel.app/)
 
 ## My process
 
