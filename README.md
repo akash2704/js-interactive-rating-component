@@ -29,14 +29,14 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-
-![](screenshots\Screenshot 2024-02-23 at 10-03-46 Frontend Mentor Interactive rating component.png)
-![](screenshots\Screenshot 2024-02-23 at 10-04-04 Frontend Mentor Interactive rating component.png}
-
+- Main page
+![Main page](<screenshots/Screenshot 2024-02-23 at 10-03-46 Frontend Mentor Interactive rating component.png>)
+- Thank You page
+![Thank you](<screenshots/Screenshot 2024-02-23 at 10-04-04 Frontend Mentor Interactive rating component.png>)
 ### Links
 
-- Solution URL: 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/akash2704/js-interactive-rating-component)
+- Live Site URL: [](https://your-live-site-url.com)
 
 ## My process
 
